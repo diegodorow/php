@@ -1,4 +1,5 @@
 <?php
 
-echo "" ;
-mundoOlá?> 
+echo "Olá mundo";
+
+?>
